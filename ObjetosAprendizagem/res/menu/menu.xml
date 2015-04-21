@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <Item
+        android:id="@+id/home"
+        android:title="Home"
+        android:showAsAction="always"/>
+     <Item
+        android:id="@+id/nivel"
+        android:title="Nível de Ensino"
+        android:showAsAction="always"/>
+      <Item
+        android:id="@+id/disciplina"
+        android:title="Disciplina"
+        android:showAsAction="always"/>
+       <Item
+        android:id="@+id/instituicao"
+        android:title="Instituição"
+        android:showAsAction="always"/>
+
+</menu>
