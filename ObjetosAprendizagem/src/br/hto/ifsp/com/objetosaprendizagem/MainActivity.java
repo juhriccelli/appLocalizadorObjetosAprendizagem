@@ -56,7 +56,7 @@ public class MainActivity extends FragmentActivity {
 
 	}
 
-	@Override
+	/*@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		super.onCreateOptionsMenu(menu);
 
@@ -73,7 +73,7 @@ public class MainActivity extends FragmentActivity {
 		m4.setShowAsAction(MenuItem.SHOW_AS_ACTION_ALWAYS);
 
 		return (true);
-	}
+	}*/
 
 	@Override
 	public boolean onMenuItemSelected(int panel, MenuItem item) {
